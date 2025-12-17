@@ -1,0 +1,8 @@
+jupyter
+jupyterlab
+ipykernel
+numpy
+matplotlib
+pyvis
+joblib
+pulp
